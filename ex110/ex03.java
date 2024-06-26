@@ -19,7 +19,6 @@ public class ex03 {
 	        
 	        System.out.printf("Área do triângulo: %.2f\n", area);
 
-
 	}
 
 }
